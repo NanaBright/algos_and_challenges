@@ -9,7 +9,6 @@ def coinster(dx):
             dy += 0.10
         if i == "q":
             dy += 0.25
-        
     
     return dy
     
