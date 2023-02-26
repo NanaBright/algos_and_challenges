@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 24 21:53:49 2022
-
-@author: ACER
-"""
 def bitonic_sort(up, x):
     if len(x) <= 1:
         return x
